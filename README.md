@@ -9,6 +9,9 @@
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/Forward_2.0)
 
+### Deploy on railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/t2Ymeh?referralCode=appu2006)
+
 
 
 ### Variables
